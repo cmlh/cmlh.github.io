@@ -13,7 +13,7 @@ GPG:
 
 `5CE5 3D47 5613 5B3D B242 0094 A463 2510 0EAE E92B`
 
-At [GitHub](https://github.com/cmlh.gpg), [Keybase](https://keybase.io/cmlh), [MIT](https://pgp.mit.edu/pks/lookup?search=0xA46325100EAEE92B&op=index&fingerprint=on&exact=on) and SKS
+At [GitHub](https://github.com/cmlh.gpg), [Keybase](https://keybase.io/cmlh/key.asc), [MIT](https://pgp.mit.edu/pks/lookup?search=0xA46325100EAEE92B&op=index&fingerprint=on&exact=on) and SKS
 
 SkypeID: cmlh.id.au
 
